@@ -61,7 +61,7 @@ SD of 0.7. Induced IFTTT logic for NC generation and redesigned the new camera b
 
 
 ## 📄 Resume
-📄 Uploading soon
+📥 [Download my Resume](HEENAL%20PATEL_RESUME_13ver_2026.pdf)
 
 ---
 
