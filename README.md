@@ -4,6 +4,7 @@
 🎓 MBA Graduate  
 Quality and Supply Chain Engineer @ Panelmatic Inc.
 🏭 Former Quality and Test Engineering Intern @ Tesla Austin and Nevada 
+
 📍 United States
 
 ---
