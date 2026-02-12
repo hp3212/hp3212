@@ -1,4 +1,4 @@
-# Heenal Patel 
+# Heenal Dharmesh Patel 
 
 🎓 M.S. Electrical Engineering (Robotics)  
 🎓 MBA Graduate  
