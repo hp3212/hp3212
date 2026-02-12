@@ -1,6 +1,6 @@
 # Heenal Dharmesh Patel 
 
-🎓 M.S. Electrical Engineering (Robotics)  
+🎓 M.S. Electrical Engineering (Robotics and Supply Chain)  
 🎓 MBA Graduate  
 Quality and Supply Chain Engineer @ Panelmatic Inc.
 🏭 Former Quality and Test Engineering Intern @ Tesla Austin and Nevada 
