@@ -10,9 +10,18 @@ Quality and Supply Chain Engineer @ Panelmatic Inc.
 ---
 
 ## 👩‍💻 About Me
-I am an Electrical Engineer with experience in **Quality, Automobiles, Thermals, Robotics, Manufacturing, and Supply Chain**.  
-I enjoy working on **problem solving, escalations, supplier programs, audits, process improvement, automation, and data-driven decision making**.
+Electrical Engineer and Supply Chain Specialist with expertise in Quality, Supply Chain, Procurement, Supplier Relationship Management and regulatory standards. 
+Excited about providing real-life engineering solutions to current Manufacturing problems with a unique blend of analytical and business acumen along with core managerial skills.
 
+Currently working as a corporate quality engineer overseeing various operations companywide. Prior worked at Tesla’s Gigafactory in Austin & Nevada, contributing to one of the most complex automotive projects of our time – the Cybertruck – as part of the Global Supply Management (GSM) team and Optimus robot - as a part of new product launch and development. 
+Working within a high-velocity, time paced multi-faceted environment.
+
+Core competencies include - 
+- Statistical and Data Visualization - C, Python, R, Minitab, SQL, Smart Sheets, Power BI, Tableau, MS Excel (Pivot, VBA), CATIA, SolidWorks, Jira, MATLAB, ROS, Labview, 3DX
+- Continuous Improvement – 8D, DMAIC, Kanban, 7QC Tools, Kaizen, MSA, Root Cause Analysis, SPC, BOM, First Article Inspection, CAPA, MRB Dispositions, MSA, Lean Manufacturing.
+- Quality Management Systems - TQM, GD&T, Gauge R&R, PPAP, APQP, Supplier Performance, SyteLine ERP.
+
+Passionate about driving scalable solutions, enhancing cross-functional collaboration, and transforming complex problems into growth opportunities. I'm always open to meaningful conversations around innovation, operations, and the future of tech-enabled industries.
 ---
 
 ## 🛠️ Skills
